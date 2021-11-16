@@ -1,8 +1,8 @@
 ---
-name: DEV fonctionnalité
+name: ACUTE DEV
 about: Développement d'une fonctionnalité
 title: DEV xxx
-labels: DEV
+labels: DEV ACT
 assignees: ''
 
 ---
